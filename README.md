@@ -55,7 +55,7 @@ The application has been tested with a variety of healthcare queries to ensure i
 - "How to manage stress effectively?"
 
 ## Video Demonstration
-A detailed video walkthrough of the application demonstrating its features and usage can be found [here]().
+A detailed video walkthrough of the application demonstrating its features and usage can be found [here](https://youtu.be/c9MU4RznusY).
 
 ## Documentation
 - **Flowise Documentation**: [Flowise Documentation](https://docs.flowiseai.com/)
